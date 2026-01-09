@@ -25,9 +25,5 @@ ls
 
 we can see a file called -
 
-"bandit1@bandit:~$ ls"
-"-"
-bandit1@bandit:~$ 
-
 
 zzz
