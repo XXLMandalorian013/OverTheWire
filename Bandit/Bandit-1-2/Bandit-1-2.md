@@ -25,5 +25,9 @@ ls
 
 we can see a file called -
 
+To view the - file we need to use ./ as it allows you to read a file literally name - as in unix/linux you can name files -. Just using cat - and cat does not know what to do with it. I read you also can use cat -- - but that did not work for me. The -- tells a program/cmd that everything after it is a file name and not a flag.
 
-wip
+cat ./-
+
+The file list the PW: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
